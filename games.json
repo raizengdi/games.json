@@ -3,20 +3,29 @@
     {
       "id": 1,
       "name": "God of War",
-      "description": "Deus da Guerra - Ação épica. Siga as aventuras do guerreiro Kratos.",
-      "coverUrl": "https://www.mediafire.com/file/9kqy4qaww0w7k38/Capcom+vs+SNK+2+Pro+(v1.0).7z/file",
-      "downloadUrl": "https://www.mediafire.com/file/9kqy4qaww0w7k38/Capcom+vs+SNK+2+Pro+(v1.0).7z/file",
+      "description": "Guerreiro Kratos em sua maior aventura. Ação épica e combate intenso.",
+      "coverUrl": "https://via.placeholder.com/220x300?text=God+of+War",
+      "downloadUrl": "https://www.mediafire.com/file/SEU_LINK_AQUI/GOW.zip/file",
       "size": 2500,
       "md5": "abc123"
     },
     {
       "id": 2,
       "name": "Metal Gear Solid 2",
-      "description": "Stealth tático clássico - Um dos melhores do PS2.",
-      "coverUrl": "https://via.placeholder.com/220x300?text=MGS2",
-      "downloadUrl": "https://seu_link_mediafire_aqui.zip",
+      "description": "Stealth tático clássico. Infiltre-se em missões secretas.",
+      "coverUrl": "https://via.placeholder.com/220x300?text=Metal+Gear+Solid",
+      "downloadUrl": "https://www.mediafire.com/file/SEU_LINK_AQUI/MGS2.zip/file",
       "size": 1800,
-      "md5": "xyz789"
+      "md5": "def456"
+    },
+    {
+      "id": 3,
+      "name": "Capcom vs SNK 2 Pro",
+      "description": "Luta épica entre os melhores personagens dos arcades. Versão profissional.",
+      "coverUrl": "https://via.placeholder.com/220x300?text=Capcom+vs+SNK+2",
+      "downloadUrl": "https://www.mediafire.com/file/9kqy4qaww0w7k38/Capcom_vs_SNK_2_Pro.zip/file",
+      "size": 450,
+      "md5": "ghi789"
     }
   ]
 }
